@@ -1,0 +1,25 @@
+{
+  "numeroFuncionarios": 10,
+   "salarioMedio": 0,
+  "lucroMedio": -350.00,
+   "departamentos": [
+    "Arte",
+    "Marketing",
+    "Musica",
+    "Programação",
+    "Roteiro"
+    
+  ],
+  "lideresDepartamentos": [
+    "Pedro Holanda",
+    "Gustavo Lopes",
+    "Rafael Sousa",
+    "Mateus Gabriel",
+    "Vinicius Nayron"
+  ],
+  "projetosAtuais": [
+    "Helva",
+    "Underrat",
+    "Site IndieVillan"
+  ]
+}
